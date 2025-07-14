@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Military Discourse</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Military Discourse</h1>
+    <p>Exploring Battles, Military Theory, and the History of Warfare</p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#battles">Battles</a></li>
+      <li><a href="#theory">Military Theory</a></li>
+      <li><a href="#history">Historical Campaigns</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section id="battles">
+      <h2>Great Battles</h2>
+      <p>From Thermopylae to Stalingrad — explore decisive military engagements and their impact on history.</p>
+    </section>
+
+    <section id="theory">
+      <h2>Military Theory</h2>
+      <p>Dive into the minds of strategists like Sun Tzu, Clausewitz, and Jomini. Compare doctrines from ancient to modern warfare.</p>
+    </section>
+
+    <section id="history">
+      <h2>Historical Campaigns</h2>
+      <p>Trace the evolution of war through the campaigns of Alexander, Napoleon, World Wars, and modern conflicts.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Military Discourse. Built for curious minds who study war to understand peace.</p>
+  </footer>
+</body>
+</html>
